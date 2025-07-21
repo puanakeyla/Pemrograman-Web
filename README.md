@@ -30,7 +30,7 @@ Sistem ini dirancang untuk mendukung kebutuhan administrasi dan informasi sekola
 - `Dosen.php` – Data dan fitur untuk dosen
 - `Mahasiswa.php` – Data mahasiswa
 - `Registrasi.php` – Form registrasi pengguna
-- `Index.php` – Halaman utama/login
+- `Index.php` – Halaman utama
 - `koneksi.php` – File koneksi ke database
 
 ## 🚀 Cara Menjalankan
